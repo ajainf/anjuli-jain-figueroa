@@ -1,26 +1,16 @@
 # anjuli-jain-figueroa.github.io
-Anjuli Jain Figueroa's Website
+Anjuli Jain Figueroa's Personal Website
+Intended to highlight and showcase some personal projects
 
-##  Portfolio Landing Page 
-### Introduction
+## Portfolio Landing Page 
+https://ajainf.github.io/anjuli-jain-figueroa/
 
-Quick data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## About Me
 
-<img src="images/demo.gif?raw=true"/>
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Quick data science portfolio! 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### LinkedIn
+
